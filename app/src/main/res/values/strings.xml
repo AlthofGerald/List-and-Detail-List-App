@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">List User Access</string>
+    <string name="ya_begitulah">ya begitulah</string>
+    <string name="username">Username</string>
+    <string name="name">Nama Pengguna</string>
+    <string name="desc"><i>Deskripsi Pengguna</i></string>
+    <string name="textview">usernameDett</string>
+    <string name="nameDett">nameDett</string>
+    <string name="descDett">descDett</string>
+    <string name="ya_begitulah1">Ya begitulah</string>
+    <string name="roleUser">Role Pengguna</string>
+
+
+
+    <string-array name="datausername">
+        <item>AlthofG6#5060</item>
+        <item>HannyC#5053</item>
+        <item>Nabjun#5048</item>
+        <item>Abdul#5071</item>
+        <item>XudiN#5063</item>
+        <item>PutriSari#5083</item>
+        <item>mayaSinta#5071</item>
+        <item>toniPRIMA#5013</item>
+        <item>Sari#5023</item>
+        <item>BudiSantoso#5041</item>
+
+    </string-array>
+
+    <string-array name="dataname">
+        <item>Althof Gerald Ardiansyah</item>
+        <item>Hanny Caroline</item>
+        <item>Nabila Junita</item>
+        <item>Abdul Rahman</item>
+        <item>Kali Udin</item>
+        <item>Putri Sari</item>
+        <item>Sinta Maya</item>
+        <item>Antonio prima</item>
+        <item>Sari Citra Dewi</item>
+        <item>Budi Santoso</item>
+    </string-array>
+
+    <integer-array name="profilePhoto">
+        <item>@drawable/a</item>
+        <item>@drawable/b</item>
+        <item>@drawable/c</item>
+        <item>@drawable/d</item>
+        <item>@drawable/e</item>
+        <item>@drawable/f</item>
+        <item>@drawable/g</item>
+        <item>@drawable/h</item>
+        <item>@drawable/i</item>
+        <item>@drawable/j</item>
+
+    </integer-array>
+
+    <string-array name="dataRoles">
+        <item>Editor</item>
+        <item>Editor</item>
+        <item>Editor</item>
+        <item>Commenter</item>
+        <item>Commenter</item>
+        <item>Commenter</item>
+        <item>Viewer</item>
+        <item>Viewer</item>
+        <item>Viewer</item>
+        <item>Viewer</item>
+
+
+    </string-array>
+
+    <string-array name="dataDes">
+        <item>This user can organize, add, edit, and erase file</item>
+        <item>This user can organize, add, edit and erase file</item>
+        <item>This user can organize, add, edit and erase file</item>
+        <item>This user can add a comment</item>
+        <item>This user can add a comment</item>
+        <item>This user can add a comment</item>
+        <item>This user can view a file</item>
+        <item>This user can view a file</item>
+        <item>This user can view a file</item>
+        <item>This user can view a file</item>
+
+
+    </string-array>
+</resources>
